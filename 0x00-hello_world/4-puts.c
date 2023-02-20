@@ -1,6 +1,8 @@
 #include <stdio.h>
 /** 
- * This function display a text
+ * main - This function display a text
+ *
+ * Return:  0
 */
 int main(void)
 {
